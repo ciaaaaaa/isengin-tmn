@@ -1,2 +1,17 @@
-
-	alert("hi marcia");
+alert("hi");
+alert("halo");
+alert("hai");
+alert("hlo");
+alert("sbr ya");
+alert("dikit lg");	
+alert("bntr lg kok");
+alert("klik lgi");
+alert("klik lgi");
+alert("klik lgi");
+alert("klik lgi");
+alert("bntr lg");
+alert("klik lg dong");
+alert("abis ini ada link");
+alert("di copas");
+alert("dibuka di google");
+alert("ini linknya for--olivia.carrd.co");
